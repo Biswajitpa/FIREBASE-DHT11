@@ -29,9 +29,28 @@ This project continuously captures temperature and humidity data from the surrou
 - Wi-Fi module connects ESP32 to Firebase.
 - Sensor data is uploaded to Firebase Realtime Database.
 - Users can monitor live readings remotely.
+  
 ## 📸 Project Preview
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNzbzF1aDZ2cDV5dmx3M3h0ZW9pb3BhdTg4eW1mdzU1MWJnZWpkbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/> </p>
-## 🎨 Live System Workflow
+## 🚀 Live Project Demonstration
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Real-Time+ESP32+Sensor+Monitoring;Firebase+Cloud+Data+Transmission;IoT+Based+Climate+Intelligence+System;Temperature+%26+Humidity+Analytics" />
+
+<br><br>
+
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="750"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/ESP32-CONNECTED-blue?style=for-the-badge&logo=espressif"/>
+<img src="https://img.shields.io/badge/Firebase-ONLINE-orange?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/DHT11-ACTIVE-green?style=for-the-badge"/>
+
+</div>
+
+##  🎨Live System Workflow
 <img width="2470" height="130" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/7c424940-b836-4935-9728-8fe4f3d02130" />
 
 ##  📂Firebase Realtime Database Structure
