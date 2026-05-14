@@ -31,24 +31,44 @@ This project continuously captures temperature and humidity data from the surrou
 - Users can monitor live readings remotely.
   
 ## 📸 Project Preview
-## 🚀 Live Project Demonstration
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Real-Time+ESP32+Sensor+Monitoring;Firebase+Cloud+Data+Transmission;IoT+Based+Climate+Intelligence+System;Temperature+%26+Humidity+Analytics" />
-
-<br><br>
-
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="750"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/ESP32-CONNECTED-blue?style=for-the-badge&logo=espressif"/>
-<img src="https://img.shields.io/badge/Firebase-ONLINE-orange?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/DHT11-ACTIVE-green?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=ESP32+Reads+Sensor+Data;WiFi+Sends+Data+to+Firebase;Firebase+Stores+Real-Time+Values;Dashboard+Displays+Live+Analytics" />
 
 </div>
+
+---
+
+<div align="center">
+
+
+flowchart LR
+
+A["🌡️ DHT11 Sensor
+Temperature & Humidity"] 
+== Sensor Data ==> 
+
+B["⚡ ESP32 Microcontroller
+Process & Analyze Data"]
+
+B 
+== WiFi Transmission ==> 
+
+C["🔥 Firebase Realtime Database
+Cloud Storage"]
+
+C 
+== Live Sync ==> 
+
+D["📱 Mobile/Web Dashboard
+Real-Time Monitoring"]
+
+style A fill:#00C9FF,color:#fff,stroke:#0f172a,stroke-width:3px
+style B fill:#7C3AED,color:#fff,stroke:#0f172a,stroke-width:3px
+style C fill:#FF6B00,color:#fff,stroke:#0f172a,stroke-width:3px
+style D fill:#00C853,color:#fff,stroke:#0f172a,stroke-width:3px
 
 ##  🎨Live System Workflow
 <img width="2470" height="130" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/7c424940-b836-4935-9728-8fe4f3d02130" />
