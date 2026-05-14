@@ -62,5 +62,4 @@ This project continuously captures temperature and humidity data from the surrou
 - OLED/LCD Display Dashboard
 - SMS/Email Alert System
 - ThingSpeak & Grafana Analytics
-## ⭐ Star This Repository If You Like The Project ⭐
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/> </div>
+
