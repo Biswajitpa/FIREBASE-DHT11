@@ -1,12 +1,11 @@
  ## 🌦️ Smart Climate Monitoring System using ESP32 + DHT11 + Firebase
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=ESP32+%2B+DHT11+%2B+Firebase;Real-Time+IoT+Monitoring+System;Cloud+Connected+Temperature+%26+Humidity+Tracker;Built+for+Embedded+Systems+%26+IoT+Enthusiasts" /> </p> <p align="center"> <img src="https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge&logo=espressif" /> <img src="https://img.shields.io/badge/Firebase-Cloud-orange?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/DHT11-Sensor-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Arduino-IDE-darkblue?style=for-the-badge&logo=arduino" /> </p>
-## 🚀 Project Overview
 
+## 🚀 Project Overview
 An advanced IoT-based Smart Climate Monitoring System developed using ESP32, DHT11 Sensor, and Firebase Realtime Database for real-time environmental monitoring.
 This project continuously captures temperature and humidity data from the surroundings and uploads it directly to the cloud using Firebase. The system enables real-time remote monitoring through mobile or web applications, making it ideal for smart homes, agriculture, industrial monitoring, and research applications.
 
 ## ✨ Key Features
-
 -  Real-Time Temperature Monitoring
 -  Live Humidity Tracking
 -  Firebase Cloud Integration
@@ -16,6 +15,7 @@ This project continuously captures temperature and humidity data from the surrou
 -  Low Power Embedded Design
 -  Scalable Smart Monitoring Architecture
 -  Easy Integration with Mobile Dashboard
+  
 ## ⚡ Hardware Components
 - ESP32 Development Board
 - DHT11 Sensor
@@ -23,6 +23,7 @@ This project continuously captures temperature and humidity data from the surrou
 - Breadboard
 - Wi-Fi Connection
 - USB Cable
+  
 ## 🔥 Working Principle
 - The DHT11 sensor reads real-time environmental data.
 - ESP32 processes the sensor values.
@@ -30,45 +31,7 @@ This project continuously captures temperature and humidity data from the surrou
 - Sensor data is uploaded to Firebase Realtime Database.
 - Users can monitor live readings remotely.
   
-## 📸 Project Preview
 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=ESP32+Reads+Sensor+Data;WiFi+Sends+Data+to+Firebase;Firebase+Stores+Real-Time+Values;Dashboard+Displays+Live+Analytics" />
-
-</div>
-
----
-
-<div align="center">
-
-
-flowchart LR
-
-A["🌡️ DHT11 Sensor
-Temperature & Humidity"] 
-== Sensor Data ==> 
-
-B["⚡ ESP32 Microcontroller
-Process & Analyze Data"]
-
-B 
-== WiFi Transmission ==> 
-
-C["🔥 Firebase Realtime Database
-Cloud Storage"]
-
-C 
-== Live Sync ==> 
-
-D["📱 Mobile/Web Dashboard
-Real-Time Monitoring"]
-
-style A fill:#00C9FF,color:#fff,stroke:#0f172a,stroke-width:3px
-style B fill:#7C3AED,color:#fff,stroke:#0f172a,stroke-width:3px
-style C fill:#FF6B00,color:#fff,stroke:#0f172a,stroke-width:3px
-style D fill:#00C853,color:#fff,stroke:#0f172a,stroke-width:3px
 
 ##  🎨Live System Workflow
 <img width="2470" height="130" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/7c424940-b836-4935-9728-8fe4f3d02130" />
@@ -99,4 +62,5 @@ style D fill:#00C853,color:#fff,stroke:#0f172a,stroke-width:3px
 - OLED/LCD Display Dashboard
 - SMS/Email Alert System
 - ThingSpeak & Grafana Analytics
-
+## ⭐ Star This Repository If You Like The Project ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/> </div>
