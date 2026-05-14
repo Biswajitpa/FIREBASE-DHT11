@@ -32,7 +32,8 @@ This project continuously captures temperature and humidity data from the surrou
 - Users can monitor live readings remotely.
 ## 📸 Project Preview
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNzbzF1aDZ2cDV5dmx3M3h0ZW9pb3BhdTg4eW1mdzU1MWJnZWpkbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/> </p>
-## 📂 Firebase Realtime Database Structure
+
+##  📂Firebase Realtime Database Structure
 <img width="227" height="196" alt="image" src="https://github.com/user-attachments/assets/403fb73d-cad9-456e-af91-65f5e2479c48" />
 
 ## 📈 Applications
