@@ -3,7 +3,6 @@
 ## 🚀 Project Overview
 
 An advanced IoT-based Smart Climate Monitoring System developed using ESP32, DHT11 Sensor, and Firebase Realtime Database for real-time environmental monitoring.
-
 This project continuously captures temperature and humidity data from the surroundings and uploads it directly to the cloud using Firebase. The system enables real-time remote monitoring through mobile or web applications, making it ideal for smart homes, agriculture, industrial monitoring, and research applications.
 
 ## ✨ Key Features
@@ -32,9 +31,14 @@ This project continuously captures temperature and humidity data from the surrou
 - Users can monitor live readings remotely.
 ## 📸 Project Preview
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNzbzF1aDZ2cDV5dmx3M3h0ZW9pb3BhdTg4eW1mdzU1MWJnZWpkbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/> </p>
+## 🎨 Live System Workflow
+<img width="2470" height="130" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/7c424940-b836-4935-9728-8fe4f3d02130" />
 
 ##  📂Firebase Realtime Database Structure
 <img width="227" height="196" alt="image" src="https://github.com/user-attachments/assets/403fb73d-cad9-456e-af91-65f5e2479c48" />
+
+## 🌟 Core Features
+<table align="center"> <tr> <td align="center">🌡️<br><b>Temperature Tracking</b></td> <td align="center">💧<br><b>Humidity Monitoring</b></td> <td align="center">☁️<br><b>Firebase Cloud Sync</b></td> </tr> <tr> <td align="center">📡<br><b>Wireless IoT Connectivity</b></td> <td align="center">⚡<br><b>Real-Time Analytics</b></td> <td align="center">🔒<br><b>Scalable Architecture</b></td> </tr> </table>
 
 ## 📈 Applications
 - 🌱 Smart Agriculture
