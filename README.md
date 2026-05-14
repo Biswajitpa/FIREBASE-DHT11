@@ -23,6 +23,17 @@ This project continuously captures temperature and humidity data from the surrou
 - Breadboard
 - Wi-Fi Connection
 - USB Cable
+
+## 💻 Software Components  
+- Arduino IDE  
+- ESP32 Board Manager  
+- DHT Sensor Library  
+- WiFi Library (ESP32)  
+- Firebase ESP32 Library  
+- Firebase Realtime Database  
+- Serial Monitor (Debugging Tool)  
+- Embedded C++ Programming  
+- Git & GitHub Version Control
   
 ## 🔥 Working Principle
 - The DHT11 sensor reads real-time environmental data.
